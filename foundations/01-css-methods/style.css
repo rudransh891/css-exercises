@@ -1,0 +1,11 @@
+.main_text{
+    background-color: green;
+    color:white;
+    font-size: 20px;
+}
+.prim_button{
+    background-color: gold;
+    border-color: gray;
+    font-size: 15px;
+    border-width: 3px;
+}
